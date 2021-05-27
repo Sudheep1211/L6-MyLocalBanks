@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Local Banks</string>
+    <string name="Ebank1">DBS</string>
+    <string name="Cbank1">星展银行</string>
+    <string name="Ebank2">OCBC</string>
+    <string name="Cbank2">华侨银行</string>
+    <string name="Ebank3">UOB</string>
+    <string name="Cbank3">大华银行</string>
+    <string name="webbank1">https://www.dbs.com.sg</string>
+    <string name="webbank2">https://www.ocbc.com</string>
+    <string name="webbank3">https://www.uob.com.sg</string>
+    <string name="telbank1">18001111111</string>
+    <string name="telbank2">18003633333</string>
+    <string name="telbank3">18002222121</string>
+</resources>
